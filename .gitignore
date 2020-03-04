@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+target
+.idea
+.idea/.gitignore
+.idea/compiler.xml
+.idea/misc.xml
+.idea/vcs.xml
+src/test/
+target/

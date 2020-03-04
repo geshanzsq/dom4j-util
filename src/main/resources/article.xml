@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articleStore>
+    <article articleId="1">
+        <title>如何提升 Java 技能</title>
+        <author>geshan</author>
+        <content>关注公众号：格姗知识圈，了解更多技术文</content>
+    </article>
+
+    <article articleId="2">
+        <title>如何高效使用软件工具</title>
+        <author>小格子</author>
+        <content>关注公众号：小格子实用技巧，了解更多实用工具</content>
+    </article>
+</articleStore>
